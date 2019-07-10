@@ -1,0 +1,22 @@
+       body {
+            margin: 0%;
+            background-color: black;
+        }
+
+        .content {
+            font-style: italic;
+            text-align: left;
+            background-color: black;
+            color: rgb(255, 23, 17);
+        }
+        .flux {
+            text-align: center;
+            color:blue;
+            font-size: 24;
+            display: flex;
+            flex-direction: row;
+        }
+        .asdf{
+            text-align: center;
+            color:red;
+        }
